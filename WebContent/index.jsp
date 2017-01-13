@@ -8,5 +8,10 @@
 </head>
 <body>
    Hello  Spring MVC! 
+   <center>
+      <table>
+         <tr></tr>
+      </table>
+   </center>
 </body>
 </html>
